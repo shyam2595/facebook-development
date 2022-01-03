@@ -7,3 +7,4 @@ last seen
 profile page code
 chat function
 voice and video feature implemented 
+payment exchange
